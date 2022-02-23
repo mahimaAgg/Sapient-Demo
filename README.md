@@ -3,7 +3,7 @@
 
 ## Build Status
 
-| Stage  | Status                                                       | XMake                                                        | Sonar                                                        |
+| Stage  | Status                                                       | Sonar                                                        | Checkmarx                                                        |
 | ------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Dev   | [![Build Status](https://jenkins.xxx.corp/dev)  |
 | Release    | [![Build Status](https://jenkins.xxx.corp/release)                                                    |
@@ -54,8 +54,6 @@ xxx.bc@sapient.com
 
 ### Feature Request
 
-In case you want a feature to be supported by MAESTRO:
-
-[JIRA Request]: https://Jira.xx.corp/
+In case you want a feature to be supported by weather Framework :   [JIRA Request]: https://Jira.xx.corp/
 
 
