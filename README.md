@@ -24,9 +24,8 @@
 
 - 1.8
 
-### Get Started
-
-- Local System Setup: https://cap.cloud.sap/docs/get-started/tools/
+### Swagger:
+http://localhost:8080/swagger-ui.html
 
 ### Backend
 
